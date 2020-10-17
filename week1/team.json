@@ -1,0 +1,43 @@
+[{
+        "name": "박경선",
+        "address": "서울",
+        "age": 23,
+        "interest": "코딩",
+        "info": "ABC"
+    },
+    {
+        "name": "임찬기",
+        "address": "서울",
+        "age": 24,
+        "interest": "Drink",
+        "info": "ABC"
+    },
+    {
+        "name": "김정재",
+        "address": "서울",
+        "age": 25,
+        "interest": "Dance",
+        "info": "DEF"
+    },
+    {
+        "name": "최선욱",
+        "address": "서울",
+        "age": 25,
+        "interest": "스쿼시",
+        "info": "GHI"
+    },
+    {
+        "name": "안재은",
+        "address": "서울",
+        "age": 24,
+        "interest": "요리",
+        "info": "ABC"
+    },
+    {
+        "name": "김가영",
+        "address": "서울",
+        "age": 24,
+        "interest": "꽃",
+        "info": "DDD"
+    }
+]
